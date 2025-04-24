@@ -1,0 +1,16 @@
+{
+  "name": "Movers Auction",
+  "short_name": "Movers",
+  "description": "The smarter way to move. Get real-time competitive bids from verified moving companies.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F9FAFB",
+  "theme_color": "#4144AF",
+  "icons": [
+    {
+      "src": "/logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
